@@ -18,7 +18,7 @@ if selected_columns:
 else:
     st.write("")
 
-image_path = "bangkit1.jpg" 
+image_path = "dashboard/bangkit1.jpg" 
 st.sidebar.image(image_path, caption="BANGKIT 2024", use_column_width=True)
 
 # Visualization of seasonal distribution
